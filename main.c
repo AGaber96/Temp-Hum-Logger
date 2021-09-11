@@ -1,3 +1,8 @@
+/*  Name     : main.c
+ *  Author   : Ahmed Gaber
+ *  Date     : 30-07-21
+ */
+
 #include "RTC.h"
 sbit Mmc_Chip_Select           at LATC1_bit;
 sbit Mmc_Chip_Select_Direction at TRISC1_bit;
