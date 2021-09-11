@@ -20,7 +20,6 @@ extern unsigned int DHT11_TMP;
 extern unsigned int DHT11_HUM;
 extern char DHT11_CHKSM;
 char filename[14] = "LOG.TXT";
-unsigned short loop, loop2;
 char Print[] = "31/07/2021 12:15:30 | Temperature = 00.0°C | Humidity = 00.0%  \r\n";
 char last_second = 0;
 
